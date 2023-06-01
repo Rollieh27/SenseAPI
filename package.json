@@ -1,0 +1,29 @@
+{
+  "name": "senseapi",
+  "version": "1.0.0",
+  "description": "Social Network API Made Easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rollieh27/SenseAPI.git"
+  },
+  "keywords": [
+    "Social",
+    "Network",
+    "API"
+  ],
+  "author": "ROllie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rollieh27/SenseAPI/issues"
+  },
+  "homepage": "https://github.com/Rollieh27/SenseAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2"
+  }
+}
